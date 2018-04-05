@@ -1,0 +1,17 @@
+	20152517_reader_first_answer.txt
+	r/w  problem:reader_first
+
+name	r_m	p_t	i_t	b_t	e_t	
+  r1	  5	  9	  5	  5	 14	
+  w1	 12	 15	 12	 50	 65	
+  w3	  3	  6	  3	 21	 27	
+  r2	  9	 12	  9	  9	 21	
+  w3	  0	  3	  0	  0	  3	
+  w4	  6	 10	  6	 27	 37	
+  r3	 13	  0	 13	 13	 13	
+  r4	  4	  7	  4	  4	 11	
+  w5	 10	 13	 10	 37	 50	
+  r5	  1	  4	  1	  3	  7	
+
+r_seq:  w3  r5  w3  r4  r1  w4  r2  w5  w1  r3
+o_seq:  w3  r5  r4  r1  r2  r3  w3  w4  w5  w1
